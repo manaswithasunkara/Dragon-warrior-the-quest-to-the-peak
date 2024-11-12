@@ -2,7 +2,7 @@
 A simple 2d pixel adventure game made with unity
 
 # Controls
-Use the Spacebar to jump, w, A, or left, the right arrow key to move left or right, and click on the mouse to attack. This is a development prototype hence there are few bugs that are to be fixed and new levels are yet to be added. Click on the build folder to start play the game Enjoy!
+Use the Spacebar to jump, w, A, or left, the right arrow key to move left or right, and click on the mouse to attack. This is a development prototype hence there are few bugs that are to be fixed and new levels are yet to be added. Click on the build folder to start playing the game Enjoy!
 
 
 # Screenshots of the Game
